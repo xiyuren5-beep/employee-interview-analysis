@@ -1,0 +1,4 @@
+interface:
+  display_name: "员工访谈分析助手"
+  short_description: "以结构化问题解决和六盒模型将员工声音转为组织诊断与管理决策"
+  default_prompt: "使用 $employee-interview-analysis 分析这份员工访谈材料：提取可观察现象，建立竞争性归因假设，用组织诊断六个盒子检查机制，并输出管理待决事项、行动选择和验证闭环。"

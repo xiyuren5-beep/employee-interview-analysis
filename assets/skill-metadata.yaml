@@ -1,0 +1,9 @@
+name: employee-interview-analysis
+version: 2.0.0
+status: active
+method_revision: true
+released: 2026-08-30
+method:
+  analysis_spine: "麦肯锡式结构化问题解决"
+  diagnostic_lens: "组织诊断六个盒子"
+  evidence_standard: "员工证据—现象—假设—诊断—决策可追溯"

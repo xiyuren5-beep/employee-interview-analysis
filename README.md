@@ -20,6 +20,18 @@
 
 ## 安装
 
+### 单文件安装
+
+下载 [single-file/SKILL.md](single-file/SKILL.md)，放入：
+
+```text
+~/.codex/skills/employee-interview-analysis/SKILL.md
+```
+
+这个版本只有一个运行文件，适合直接分发或上传给支持 Markdown 指令的 Agent。其他 Agent 平台是否支持自动触发，取决于平台自身的 Skill 机制。
+
+### 完整版安装
+
 克隆到 Codex Skills 目录：
 
 ```bash
@@ -65,6 +77,7 @@ git clone <YOUR_REPOSITORY_URL> ~/.codex/skills/employee-interview-analysis
 
 - [模拟输入](examples/sample-input.md)
 - [示例输出](examples/sample-output.md)
+- [单文件发行版](single-file/SKILL.md)
 - [方法来源和使用边界](references/source-map.md)
 - [回归案例](tests/regression-cases.md)
 - [版本记录](CHANGELOG.md)
